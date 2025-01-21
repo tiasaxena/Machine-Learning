@@ -1,0 +1,12 @@
+[submodule "Algorithms_Implementation"]
+	path = Algorithms_Implementation
+	url = https://github.com/tiasaxena/ML-Notebooks.git
+[submodule "Pyspark"]
+	path = Pyspark
+	url = https://github.com/tiasaxena/PySpark.git
+[submodule "LLM"]
+	path = LLM
+	url = https://github.com/tiasaxena/llm.git
+[submodule "Pytorch"]
+	path = Pytorch
+	url = https://github.com/tiasaxena/Pytorch.git
